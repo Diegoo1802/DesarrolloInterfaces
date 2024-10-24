@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\bin\Debug\Proyecto1_Cs.exe.config
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\bin\Debug\Proyecto1_Cs.exe
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\bin\Debug\Proyecto1_Cs.pdb
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.Properties.Resources.resources
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.exe
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.pdb
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.FormularioPrincipal.resources
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.Formulario2.resources
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.Formulario3.resources
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.Formulario4.resources
+C:\Users\Alumno\source\repos\ActividadesPrimerTrimestre\Proyecto1_Cs\obj\Debug\Proyecto1_Cs.Formulario5.resources
